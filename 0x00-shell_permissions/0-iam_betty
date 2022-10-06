@@ -1,0 +1,4 @@
+
+#!/bin/bash
+sudo chown you 0-iam_betty
+
